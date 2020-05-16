@@ -1,0 +1,11 @@
+.popup {
+    width: 250px;
+}
+
+.loader {
+    display: none;
+}
+
+#error, #success {
+    display: none;
+}
